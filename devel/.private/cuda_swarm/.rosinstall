@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vayun/catkin_ws/devel/.private/cuda_swarm/setup.sh

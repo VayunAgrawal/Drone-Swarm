@@ -1,0 +1,6 @@
+devel_space: /home/vayun/catkin_ws/devel
+install: false
+install_space: /home/vayun/catkin_ws/install
+profile: default
+source_space: /home/vayun/catkin_ws/src
+workspace: /home/vayun/catkin_ws

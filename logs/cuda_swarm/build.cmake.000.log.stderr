@@ -1,0 +1,6 @@
+[31m[1mCMake Error[0m at /usr/share/cmake-3.5/Modules/FindCUDA.cmake:617 (message):
+  Specify CUDA_TOOLKIT_ROOT_DIR
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:11 (find_package)
+
+

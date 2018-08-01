@@ -1,0 +1,8 @@
+prefix=/home/vayun/catkin_ws/devel/.private/cuda_swarm
+
+Name: cuda_swarm
+Description: Description of cuda_swarm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vayun/catkin_ws/devel/.private/cuda_swarm/lib 
+Requires: 

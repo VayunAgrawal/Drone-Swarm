@@ -1,0 +1,4 @@
+cuda_swarm
+/home/vayun/catkin_ws/devel/.private/cuda_swarm/share/cuda_swarm/cmake/cuda_swarmConfig-version.cmake /home/vayun/catkin_ws/devel/share/cuda_swarm/cmake/cuda_swarmConfig-version.cmake
+/home/vayun/catkin_ws/devel/.private/cuda_swarm/share/cuda_swarm/cmake/cuda_swarmConfig.cmake /home/vayun/catkin_ws/devel/share/cuda_swarm/cmake/cuda_swarmConfig.cmake
+/home/vayun/catkin_ws/devel/.private/cuda_swarm/lib/pkgconfig/cuda_swarm.pc /home/vayun/catkin_ws/devel/lib/pkgconfig/cuda_swarm.pc
